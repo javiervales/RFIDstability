@@ -9,6 +9,7 @@
 
   
 <b> Abstract </b>
+<p>
 <it>Queued Radio Frequency Identification (RFID) networks arise naturally in many applications, where tags are
 grouped into batches, and each batch must be processed before the next reading job starts. In these cases, the
 system must be able to handle all incoming jobs, keeping the queue backlogs bounded. This property is called
@@ -21,6 +22,7 @@ recursive analytical approach, overcoming the limitations of previous works, whi
 We also address different flow optimization problems, such as computing the maximum joint traffic that a network
 can process stably, selecting the minimal number of readers to process a given total load, or determining the
 optimal timeslot duration, which are novel in the RFID literature.</it>
+</p>
 
 
 ## Paper materials
