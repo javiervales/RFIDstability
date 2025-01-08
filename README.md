@@ -5,7 +5,7 @@
 </p>
 
 <p>
-<b>Published in: IEEE Access vol. 7, October 2019, <a href="https://doi.org/10.1109/ACCESS.2019.2945396"> DOI: 10.1109/ACCESS.2019.2945396 </a </b> </p>
+<b> Published in: IEEE Access vol. 7, October 2019, <a href="https://doi.org/10.1109/ACCESS.2019.2945396"> DOI: 10.1109/ACCESS.2019.2945396 </a> </b> </p>
 
   
 <b> Abstract </b>
