@@ -1,12 +1,13 @@
 # Stability of synchronous queued RFID networks
 
 <p align="center">
-  <img src="https://ieeexplore.ieee.org/ielx7/6287639/8600701/8856209/graphical_abstract/access-gagraphic-2945396.jpg" alt="Graphical abstract" width="600">
+<img src="https://ieeexplore.ieee.org/ielx7/6287639/8600701/8856209/graphical_abstract/access-gagraphic-2945396.jpg" alt="Graphical abstract" width="600">
 </p>
 
 <p>
-<b>Published in: IEEE Access vol. 7, October 2019, <a href="https://doi.org/10.1109/ACCESS.2019.2945396"> DOI: 10.1109/ACCESS.2019.2945396 </a </b </p>
-<p>
+<b>Published in: IEEE Access vol. 7, October 2019, <a href="https://doi.org/10.1109/ACCESS.2019.2945396"> DOI: 10.1109/ACCESS.2019.2945396 </a </b> </p>
+
+  
 <b> Abstract </b>
 <it>Queued Radio Frequency Identification (RFID) networks arise naturally in many applications, where tags are
 grouped into batches, and each batch must be processed before the next reading job starts. In these cases, the
