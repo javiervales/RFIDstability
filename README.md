@@ -27,8 +27,12 @@ optimal timeslot duration, which are novel in the RFID literature.</it>
 
 ## Paper materials
 <ul>
-  <li> <b>procesa.py</b>: main script for data processing data
-    <li> <b>cluster.py</b>: functions for data clustering
+  <li> <b>b.nb</b>: Mathematica notebook for analytical computation of the batch identification procedure (general case)
+  <li> <b>bDFSA.nb</b>: Mathematica notebook for analytical computation of the batch identification procedure (Dynamic-FSA case)
+  <li> <b>bFSA.m</b>: Matlab script for Monte-Carlo evaluation of the batch identification procedure (Static-FSA case) suitable only for small populations and frame-lenghts
+  <li> <b>bDFSA.m</b>: Matlab script for Monte-Carlo evaluation of the batch identification procedure (Dynamic-FSA case) suitable only for small populations and frame-lenghts
+
+  <li> <b>cluster.py</b>: functions for data clustering
       <li> <b>*.txt</b>: boxing training data, one file per session
         <li> <b>*.mp4</b>: boxing training recording, one per session
         </ul>
