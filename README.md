@@ -39,4 +39,4 @@ Feel free to reach out the main author (javier.vales@upct.es).
 
 Please, cite as:
 
-<it>Vales-Alonso, J., López-Matencio, P., Alcaraz, J. J., & González-Castaño, F. J. (2019). Stability of synchronous queued RFID networks. <b>IEEE Access</b>, 7, 148828-148842.</it>
+Vales-Alonso, J., López-Matencio, P., Alcaraz, J. J., González-Castaño, F. J. (2019). </it>Stability of synchronous queued RFID networks</it>. <b>IEEE Access</b>, 7, 148828-148842.
