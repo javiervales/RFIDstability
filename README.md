@@ -31,16 +31,14 @@ optimal timeslot duration, which are novel in the RFID literature.</it>
   <li> <b>bDFSA.nb</b>: Mathematica notebook for analytical computation of the batch identification procedure (Dynamic-FSA case)
   <li> <b>bFSA.m</b>: Matlab script for Monte-Carlo evaluation of the batch identification procedure (Static-FSA case) suitable only for small populations and frame-lenghts
   <li> <b>bDFSA.m</b>: Matlab script for Monte-Carlo evaluation of the batch identification procedure (Dynamic-FSA case) suitable only for small populations and frame-lenghts
+  <li> <b>*.zip</b>: precomputed batch identifacation probabilities matrices (analytical)
+  <li> <b>*.m</b>: boxing training data, one file per session
+</ul>
 
-  <li> <b>cluster.py</b>: functions for data clustering
-      <li> <b>*.txt</b>: boxing training data, one file per session
-        <li> <b>*.mp4</b>: boxing training recording, one per session
-        </ul>
+Feel free to reach out the main author (javier.vales@upct.es).
 
-        Feel free to reach out the main author (javier.vales@upct.es).
+Please, cite as:
 
-        Please, cite as:
-
-        <it>J. Vales-Alonso, F. J. González-Castaño, P. López-Matencio and F. Gil-Castiñeira, </it><b>"A Nonsupervised Learning Approach for Automatic
-        Characterization of Short-Distance Boxing Training,"</b> in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 11, pp.
-        7038-7052, Nov. 2023, doi: 10.1109/TSMC.2023.3292146.
+<it>J. Vales-Alonso, F. J. González-Castaño, P. López-Matencio and F. Gil-Castiñeira, </it><b>"A Nonsupervised Learning Approach for Automatic
+Characterization of Short-Distance Boxing Training,"</b> in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 11, pp.
+7038-7052, Nov. 2023, doi: 10.1109/TSMC.2023.3292146.
