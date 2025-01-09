@@ -32,7 +32,7 @@ optimal timeslot duration, which are novel in the RFID literature.</it>
   <li> <b>bFSA.m</b>: Matlab script for Monte-Carlo evaluation of the batch identification procedure (Static-FSA case) suitable only for small populations and frame-lenghts
   <li> <b>bDFSA.m</b>: Matlab script for Monte-Carlo evaluation of the batch identification procedure (Dynamic-FSA case) suitable only for small populations and frame-lenghts
   <li> <b>*.zip</b>: precomputed batch identifacation probabilities matrices (analytical)
-  <li> <b>*.m</b>: boxing training data, one file per session
+  <li> <b>*.m</b>: capacity analysis for different scenarios 
 </ul>
 
 Feel free to reach out the main author (javier.vales@upct.es).
