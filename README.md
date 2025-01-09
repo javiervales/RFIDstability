@@ -39,6 +39,4 @@ Feel free to reach out the main author (javier.vales@upct.es).
 
 Please, cite as:
 
-<it>J. Vales-Alonso, F. J. González-Castaño, P. López-Matencio and F. Gil-Castiñeira, </it><b>"A Nonsupervised Learning Approach for Automatic
-Characterization of Short-Distance Boxing Training,"</b> in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 11, pp.
-7038-7052, Nov. 2023, doi: 10.1109/TSMC.2023.3292146.
+<it>Vales-Alonso, J., López-Matencio, P., Alcaraz, J. J., & González-Castaño, F. J. (2019). Stability of synchronous queued RFID networks. <b>IEEE Access</b>, 7, 148828-148842.</it>
